@@ -1,0 +1,7 @@
+shareprice = float(input("Enter price per share: "))
+stockprice = float(input("Enter stock price: "))
+quantity = int(input("Enter quantity of stock: "))
+
+amount = (stockprice - shareprice) * quantity
+
+print(f"Increase or decrease in value: {amount: .2f}")
