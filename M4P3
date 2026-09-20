@@ -7,7 +7,7 @@ tip18 = mealtotal * 0.18
 total18 = mealtotal + tip18
 
 tip20 = mealtotal * 0.20
-total20 = mealtital + tip20
+total20 = mealtotal + tip20
 
 print(f"With 15% Tip:")
 print(f"Total for a meal: {mealtotal: .2f}")
