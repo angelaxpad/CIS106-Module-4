@@ -1,7 +1,7 @@
 mealtotal = float(input("Enter total for meal: "))
 
 tip15 = mealtotal * 0.15
-total15 = mealtital + tip15
+total15 = mealtotal + tip15
 
 tip18 = mealtotal * 0.18
 total18 = mealtotal + tip18
